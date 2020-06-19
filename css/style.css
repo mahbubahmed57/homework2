@@ -1,0 +1,40 @@
+h1{
+	color: pink
+}
+.hk1{
+	color:blue;
+}
+#hk1{
+	color: green
+}
+
+.wrapper{
+	width:60%;
+	margin:0 auto;
+	border: 5px solid #ddd;
+} 
+
+.first_name ,.last_name ,.email,.password{
+	width: 90%;
+	padding: 10px;
+	height: 25px;
+	font-size: 18px;
+}
+label{
+	font-size: 25px;
+}
+form{
+	background-color: #cc0066;
+}
+table{
+	font-size: 18px;
+	background-color: #39e600;
+	border: 1px solid #ddd;
+	margin:0 auto;
+	width: 90%;
+}
+
+th, td{
+	text-align: center;
+	border: 1px solid #ddd;
+}
